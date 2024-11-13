@@ -102,7 +102,7 @@ span {
     border-image: linear-gradient(225deg, transparent 40%, var(--main-color)) 1;
 }
 .about {
-    background-color: var(--bg-color-02);
+    background-color: var(--bg-color-01);
 }
 
 .home-img img, .about-img img{
@@ -126,6 +126,10 @@ span {
 .home-content p, .about-content p{
     margin-top: 1.2rem;
     text-align: justify;
+}
+
+.certifications {
+    background-color: var(--bg-color-02);
 }
 
 .certifications h2,
@@ -156,8 +160,8 @@ span {
     padding: 2rem 1rem 2.5rem;
     border-radius: 1.2rem;
     text-align: center;
-    border: solid 0.15rem var(--bg-color-01);
-    background-color: var(--bg-color-02);
+    border: solid 0.15rem var(--bg-color-02);
+    background-color: var(--bg-color-01);
     transition: 0.5s ease;
 }
 .certifications-container .certifications-box:hover {
@@ -222,7 +226,7 @@ span {
     align-items: center;
     flex-direction: column;
     text-align: center;
-    padding: 0 4rem;
+    padding: 0 2rem;
     transform: translateY(75rem);
     transition: 0.5s ease;
 }
