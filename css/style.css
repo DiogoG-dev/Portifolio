@@ -92,9 +92,21 @@ span {
 }
 
 .home-img {
-    border-right: solid 0.5rem;
-    border-bottom: solid 0.5rem;
-    border-image: linear-gradient(135deg, transparent 40%, var(--main-color)) 1;
+    filter: drop-shadow(1px 1px 20px #00eeff)
+}
+
+@keyframes float{
+    0%{
+        top: 0;
+    }
+    100%{
+        top: 30px;
+    }
+}
+
+.home .home-img img{
+    position: relative;
+    animation: float 2s ease-in-out infinite alternate;
 }
 .about-img {
     border-left: solid 0.5rem;
