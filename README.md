@@ -1,7 +1,7 @@
 # Meu Portfólio - Diogo Gabriel
 
 ## Sobre Mim
-
+<img href="./img/Diogo Gabriel_1.png">
 👋 Olá! Sou **Diogo Gabriel**, acadêmico em Engenharia de Software e Analista de Sistemas com atuação como Desenvolvedor Full-Stack freelancer. Tenho experiência com Figma, Node.js, React, React Native, MySQL, MongoDB, APIs, Grafana e Jest, e atuo em todas as etapas do desenvolvimento, sempre buscando eficiência e qualidade.
 
 Sou também microempresário e cofundador da **Cestas e Mimos R&D**, aplicando conhecimentos de UX/UI e desenvolvimento de software em nosso e-commerce de Artes e Presentes.
