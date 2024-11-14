@@ -6,7 +6,7 @@
 
 Sou também microempresário e cofundador da **Cestas e Mimos R&D**, aplicando conhecimentos de UX/UI e desenvolvimento de software em nosso e-commerce de Artes e Presentes.
 
-[Visite meu portfólio completo](https://diogog-dev.github.io/Portifolio/)
+<a href="https://diogog-dev.github.io/Portifolio/" target="_blank">Visite meu portfólio completo</a>
 
 ---
 
