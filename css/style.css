@@ -5,6 +5,7 @@
     --text-color: #ffffff;
     --bg-color-01: #1f242d;
     --bg-color-02: #323946;
+    --bg-color-03: #000000;
     --color-00: #0000001a;
 
     --color-01: #999999;
@@ -260,6 +261,9 @@ span {
 
 .portfolio-layer h4 {
     font-size: 1.5rem;
+    background-color: var(--bg-color-03);
+    padding: 3px 10px;
+    border-radius: 5px;
 }
 
 .portfolio-layer p {
