@@ -377,20 +377,20 @@ footer {
 /* Smartphone (portrit) */
 @media (min-width: 0px) {
     .portfolio-layer h4 {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     .portfolio-layer p {
-        font-size: 0.6rem;
+        font-size: 0.8rem;
     }
     
     .portfolio-layer a {
-        width: 2rem;
-        height: 2rem;
+        width: 2.5rem;
+        height: 2.5rem;
     }
     
     .portfolio-layer a i {
-        font-size: 1rem;
+        font-size: 1.2rem;
     }
 
     .menu-hamburguer {
@@ -534,7 +534,7 @@ footer {
     .portfolio-layer a i {
         font-size: 1.5rem;
     }
-    
+
     .certifications-container {
         flex-direction: row;
         gap: 1.2rem;
