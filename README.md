@@ -12,6 +12,8 @@ Sou também microempresário e cofundador da **Cestas e Mimos R&D**, aplicando c
 
 ## Principais Projetos
 
+- **TrackMate 0.4 XE**: Landing Page para smartwatch moderno.
+- **BatmanPage**: Landing Page para apresentação do Filme The Batman.
 - **SisGeps**: App mobile para gerenciamento de estoque com React Native e Supabase.
 - **API Food - Inventory Manager**: Gerenciador de estoque de alimentos usando MongoDB e APIs.
 - **DataWASHES**: API pública para dados comunitários, utilizando Scrum e Kanban.
