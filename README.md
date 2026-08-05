@@ -33,6 +33,6 @@ Sou também microempresário e cofundador da **Cestas e Mimos R&D**, aplicando c
 ## Contato
 
 📧 E-mail: [diogogabriel.tech@gmail.com](#)  
-📱 Telefone: [(88) 99726-7466](#)
+📱 Telefone: [(88) 99938-6552](#)
 
 ---
